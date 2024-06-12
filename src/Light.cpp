@@ -1,5 +1,3 @@
-// light.cpp
-
 #include "Light.hpp"
 
 Light::Light(QObject *parent) : Light(parent, Brightness::High, COLOR_WHITE) {
